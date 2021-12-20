@@ -6,4 +6,4 @@ This is a sample chat app developed using jetpack compose.
 - Dagger Hilt
 - Ktor Client
 - Kotlinx Serialization
-- Jetpack Compose
+- Jetpack Compose with viewmodel, navigation integration
